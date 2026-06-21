@@ -4,10 +4,10 @@
         const translations = {
             en: {
                 "nav.home": "Home", "nav.about": "About", "nav.projects": "Projects", "nav.feed": "Feed", "nav.films": "Films", "nav.music": "Music", "nav.contact": "Contact",
-                "hero.eyebrow": "Nguyen Ba Hieu · Saigon",
+                "hero.eyebrow": "Nguyen Ba Hieu",
                 "hero.sayHello": "Say hello", "hero.sayHelloHint": "hello! really glad you're here!",
                 "hero.title": "Student. Creator.", "hero.explore": "Explore my world", "hero.exploreHint": "scroll down!",
-                "hero.sub": "Saigon-based, self-taught in everything that matters, freshman in everything else.",
+                "hero.sub": "self-taught in everything that matters, freshman in everything else.",
                 "about.label": "Who am I", "about.title": "A little about me", "about.sub": "Authentic, a little weird, always building something.",
                 "about.card1.title": "IB Freshman, Saigon University", "about.card1.body": "Studying International Business in HCMC, class DKQ1252. Learning how the world does business — and why culture is everything.",
                 "about.card2.title": "Builder & Entrepreneur", "about.card2.body": "Shipping projects while still in school — comics, websites, platforms. I build things before I fully know how.(with the help of ai) That's the point( i'm still learning the funamendal though).",
@@ -45,7 +45,7 @@
                 "hero.eyebrow": "Nguyễn Bá Hiếu · Sài Gòn",
                 "hero.sayHello": "Chào bạn 👋", "hero.sayHelloHint": "chào bạn! rất vui vì bạn ghé thăm!",
                 "hero.title": "Sinh viên. Người sáng tạo.", "hero.explore": "Khám phá thế giới của mình 🌍", "hero.exploreHint": "cuộn xuống xem nhé!",
-                "hero.sub": "Sinh ra ở Sài Gòn, tự học mọi thứ quan trọng, tân sinh viên trong mọi thứ còn lại.",
+                "hero.sub": "tự học mọi thứ quan trọng, tân sinh viên trong mọi thứ còn lại.",
                 "about.label": "Mình là ai", "about.title": "Đôi nét về mình", "about.sub": "Chân thật, hơi lạ một chút, luôn luôn đang xây dựng thứ gì đó.",
                 "about.card1.title": "Sinh viên năm nhất, ĐH Sài Gòn", "about.card1.body": "Học Kinh doanh Quốc tế tại TP.HCM, lớp DKQ1252. Đang tìm hiểu xem thế giới làm ăn như thế nào — và tại sao văn hoá mới là yếu tố quyết định.",
                 "about.card2.title": "Builder & Khởi nghiệp", "about.card2.body": "Xây dựng dự án liên tục song song với việc học trên trường — truyện tranh, website, nền tảng. Mình bắt tay vào làm trước cả khi biết chính xác phải làm thế nào (với sự hỗ trợ của AI). Đó mới là điều thú vị (tất nhiên mình vẫn đang củng cố lại kiến thức nền tảng).",
